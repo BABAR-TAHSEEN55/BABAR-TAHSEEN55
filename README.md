@@ -23,9 +23,7 @@
 <h3 align="center">
    🔗 Currently Learning:
   <br><br>
-  🔹 APIs / Web Scraping
-  <br><br>
-  🔹 MERN/PERN Stack
+  🔹 Agentic AI / Devops
 </h3>
 
 <h3 align="left"> 🪓 Tech Stack </h3>
