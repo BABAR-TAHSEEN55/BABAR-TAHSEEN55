@@ -41,9 +41,9 @@
 
 ---
 
-<h2 align="center"><em>about me</em></h2>
+<h2 align="center"><em>About me</em></h2>
 
-<img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="250" align="right" style="margin-left: 20px;" />
+<!-- <img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="250" align="right" style="margin-left: 20px;" /> -->
 
 <p>
   hello there! <em><b>i'm mohammed babar tahseen</b></em>, a full stack developer & ai enthusiast. i enjoy learning new technologies and building scalable, modern web applications and intelligent systems. currently diving deep into agentic ai, devops, and full stack development.
