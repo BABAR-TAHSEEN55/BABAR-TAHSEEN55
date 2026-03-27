@@ -18,13 +18,13 @@
 
 </div>
 
----
+<!-- --- -->
+<!---->
+<!-- <div align="center"> -->
+<!--   <img src="https://github.com/user-attachments/assets/b206878c-4c54-436f-b2b9-cf2a49a5240a" style="width: 600px; border-radius: 15px;"/> -->
+<!-- </div> -->
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/b206878c-4c54-436f-b2b9-cf2a49a5240a" style="width: 600px; border-radius: 15px;"/>
-</div>
-
----
+## <!---->
 
 <h2 align="center"><em>About Me</em></h2>
 
