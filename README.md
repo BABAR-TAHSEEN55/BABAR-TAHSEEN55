@@ -10,7 +10,6 @@
 
 <br/><br/>
 
-[![AboutMe](https://img.shields.io/badge/🌐_About_Me-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://about-me-gilt-two.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/babartahseen/)
 [![Devpost](https://img.shields.io/badge/Devpost-000000?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/babar-tahseen55)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://suhospace.dev)
