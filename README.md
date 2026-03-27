@@ -33,7 +33,6 @@
 </p>
 
 <br/>
-<br/>
 
 <p align="center">
    <em><b>Studying at Muffakham Jah College of Engineering</b></em><br/>
