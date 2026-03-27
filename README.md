@@ -11,25 +11,11 @@
 
 <br/><br/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/babartahseen/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logocolor=white" />
-  </a>
-
-  <a href="https://devpost.com/babar-tahseen55" target="_blank">
-    <img src="https://img.shields.io/badge/devpost-000000?style=for-the-badge&logo=devpost&logocolor=white" />
-  </a>
-
-  <a href="https://suhospace.dev" target="_blank">
-    <img src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=vercel&logocolor=white" />
-  </a>
-
-  <!-- discord (no link, clean black badge) -->
-  <img src="https://img.shields.io/badge/discord-000000?style=for-the-badge&logo=discord&logocolor=white" />
-
-  <!-- twitter (no link, clean black badge) -->
-  <img src="https://img.shields.io/badge/twitter-000000?style=for-the-badge&logo=twitter&logocolor=white" />
-</p>
+[![AboutMe](https://img.shields.io/badge/🌐_ABOUT_ME-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://about-me-gilt-two.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/babartahseen/)
+[![Devpost](https://img.shields.io/badge/DEVPOST-000000?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/babar-tahseen55)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://suhospace.dev)
+![Discord](https://img.shields.io/badge/DISCORD-000000?style=for-the-badge&logo=discord&logoColor=white)
 
 </div>
 
