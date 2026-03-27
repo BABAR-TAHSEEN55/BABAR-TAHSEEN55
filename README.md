@@ -97,6 +97,107 @@
 
 <div align="center">
 
+<h2>🛠️ Projects</h2>
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/BABAR-TAHSEEN55/GhoulCli">GhoulCli</a></h3>
+      <p>AI Agent terminal assistant with autonomous reasoning - chat with your computer to get things done.</p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/BABAR-TAHSEEN55/Vanix">Vanix</a></h3>
+      <p>Peer-to-peer encrypted file sharing using WebRTC and self-destructing private notes.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/BABAR-TAHSEEN55/Grammy-AI">Grammy-AI</a></h3>
+      <p>Easy text refinement without changing your tone and NO AI SLOP.</p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/BABAR-TAHSEEN55/SpeedyTm">SpeedyTm</a></h3>
+      <p>Tries to replicate Paytm transactions with neat UI/UX design.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/BABAR-TAHSEEN55/Production-API">Production-API</a></h3>
+      <p>Robust API with testing, containerization and much more.</p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/BABAR-TAHSEEN55/Xtension">Xtension</a></h3>
+      <p>Boilerplate and starter for Chrome extensions, built with WXT, React, TailwindCSS, Shadcn UI and TypeScript.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/BABAR-TAHSEEN55/kotatsu">kotatsu 🔒</a></h3>
+      <p>Multi Tenant School Management System.</p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/BABAR-TAHSEEN55/zAi">zAi 🔒</a></h3>
+      <p>A sophisticated, distributed rate limiting framework that protects your APIs from abuse while ensuring fair resource allocation across users and services.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/BABAR-TAHSEEN55/Reddix">Reddix 🔒</a></h3>
+      <p>A Reddit extension that lets you engage in communities without scrolling or actually opening subreddits — because it can be a nightmare.</p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/BABAR-TAHSEEN55/Grimoire">Grimoire</a></h3>
+      <p>Python project — details under wraps. 🤫</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/BABAR-TAHSEEN55/Restaura">Restaura</a></h3>
+      <p>TypeScript project — details under wraps. 🤫</p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/BABAR-TAHSEEN55/Task-Tracker">Task-Tracker</a></h3>
+      <p>CLI Task Tracker: A Node.js command-line app for managing tasks with adding, listing, completing, and removing — with data persistence via Inquirer.js.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/BABAR-TAHSEEN55/Discord-Bot">Discord-Bot</a></h3>
+      <p>JavaScript project — details under wraps. 🤫</p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/BABAR-TAHSEEN55/Concurrent-TransPoder">Concurrent-TransPoder 🔒</a></h3>
+      <p>Go project — details under wraps. 🤫</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/BABAR-TAHSEEN55/Fulcrum">Fulcrum 🔒</a></h3>
+      <p>Python project — details under wraps. 🤫</p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/BABAR-TAHSEEN55/Sage">Sage 🔒</a></h3>
+      <p>Python project — details under wraps. 🤫</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/BABAR-TAHSEEN55/Abyss">Abyss</a></h3>
+      <p>TypeScript project — details under wraps. 🤫</p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/BABAR-TAHSEEN55/dotfiles.">dotfiles.</a></h3>
+      <p>My centralized dotfiles that can be replicated on any machine ^_^</p>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
 <h2>My Stats</h2>
 
 <img src="https://streak-stats.demolab.com?user=babar-tahseen55&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&stroke=ffffff" height="220" alt="Streak Graph" />
@@ -126,14 +227,6 @@
   <img alt="GitHub Snake" src="https://raw.githubusercontent.com/babar-tahseen55/babar-tahseen55/output/github-snake.svg" />
 </picture>
 </div>
-
----
-
-<div align="center">
-
-<h3>Random Dev Quote</h3>
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 
