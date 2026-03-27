@@ -32,8 +32,11 @@
   Hello there! <em><b>I'm Mohammed Babar Tahseen</b></em>, a full-stack developer & AI enthusiast. I enjoy learning new technologies and building scalable, modern web applications and intelligent systems. Currently diving deep into Agentic AI, DevOps, and System Design.
 </p>
 
+<br/>
+<br/>
+
 <p align="center">
-   <em><b>Studying at Muffakham Jah College of Engineering & Technology</b></em><br/>
+   <em><b>Studying at Muffakham Jah College of Engineering</b></em><br/>
    <em><b>Part-time Terminal Hermit</b></em><br/>
    <em><b>1× Hackathon Winner</b></em><br/>
    <em><b>Manhwa Reader</b></em>
@@ -132,12 +135,6 @@
 <h3>Random Dev Quote</h3>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
----
-
-<h3>Visitor Count</h3>
-
-![](https://komarev.com/ghpvc/?username=babar-tahseen55&color=000000&style=flat-square&label=Profile+Views)
 
 ---
 
