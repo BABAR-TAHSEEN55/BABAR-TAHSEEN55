@@ -28,8 +28,8 @@
 
 <h2 align="center"><em>About Me</em></h2>
 
-<p>
-  Hello there! <em><b>I'm Mohammed Babar Tahseen</b></em>, a full-stack developer & AI enthusiast. I enjoy learning new technologies and building scalable, modern web applications and intelligent systems.<br/> Currently diving deep into agentic AI, DevOps, and full-stack development.
+<p align="center">
+  Hello there! <em><b>I'm Mohammed Babar Tahseen</b></em>, a full-stack developer & AI enthusiast. I enjoy learning new technologies and building scalable, modern web applications and intelligent systems. Currently diving deep into Agentic AI, DevOps, and System Design.
 </p>
 
 <p align="center">
