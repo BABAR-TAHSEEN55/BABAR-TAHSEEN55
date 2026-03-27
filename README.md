@@ -1,9 +1,9 @@
-<h1 align="center">
-  hi!! I'm Mohammed Babar Tahseen
-  <img src="https://github.com/user-attachments/assets/13397e2a-5cf7-487e-94e8-d71121b5c655" height="35">
-  <br>
-  ス&nbsp;ホ&nbsp;・&nbsp;キ&nbsp;ム
-</h1>
+<!-- <h1 align="center"> -->
+<!--   hi!! I'm Mohammed Babar Tahseen -->
+<!--   <img src="https://github.com/user-attachments/assets/13397e2a-5cf7-487e-94e8-d71121b5c655" height="35"> -->
+<!--   <br> -->
+<!--   ス&nbsp;ホ&nbsp;・&nbsp;キ&nbsp;ム -->
+<!-- </h1> -->
 
 <div align="center">
 
@@ -139,7 +139,11 @@
 <tr>
 <td width="50%" align="center">
   <h4>most used languages</h4>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=babar-tahseen55&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&langs_count=8" alt="top languages" />
+  <img 
+    src="https://github-readme-stats-two-beta-28.vercel.app/api/top-langs/?username=Joaninnn&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&langs_count=8"
+
+                />
+
 </td>
 <td width="50%" align="center">
   <h4>github stats</h4>
