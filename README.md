@@ -97,35 +97,6 @@
 
 <div align="center">
 
-<h2>🛠️ Projects</h2>
-
-<table>
-  <tr><td><a href="https://github.com/BABAR-TAHSEEN55/GhoulCli"><b>GhoulCli</b></a> — AI Agent terminal assistant with autonomous reasoning - chat with your computer to get things done.</td></tr>
-  <tr><td><a href="https://github.com/BABAR-TAHSEEN55/Vanix"><b>Vanix</b></a> — Peer-to-peer encrypted file sharing using WebRTC and self-destructing private notes.</td></tr>
-  <tr><td><a href="https://github.com/BABAR-TAHSEEN55/Grammy-AI"><b>Grammy-AI</b></a> — Easy text refinement without changing your tone and NO AI SLOP.</td></tr>
-  <tr><td><a href="https://github.com/BABAR-TAHSEEN55/SpeedyTm"><b>SpeedyTm</b></a> — Tries to replicate Paytm transactions with neat UI/UX design.</td></tr>
-  <tr><td><a href="https://github.com/BABAR-TAHSEEN55/Production-API"><b>Production-API</b></a> — Robust API with testing, containerization and much more.</td></tr>
-  <tr><td><a href="https://github.com/BABAR-TAHSEEN55/Xtension"><b>Xtension</b></a> — Boilerplate and starter for Chrome extensions, built with WXT, React, TailwindCSS, Shadcn UI and TypeScript.</td></tr>
-  <tr><td><a href="https://github.com/BABAR-TAHSEEN55/kotatsu"><b>kotatsu</b></a> 🔒 — Multi Tenant School Management System.</td></tr>
-  <tr><td><a href="https://github.com/BABAR-TAHSEEN55/zAi"><b>zAi</b></a> 🔒 — Distributed rate limiting framework that protects your APIs from abuse while ensuring fair resource allocation.</td></tr>
-  <tr><td><a href="https://github.com/BABAR-TAHSEEN55/Reddix"><b>Reddix</b></a> 🔒 — Reddit extension that lets you engage in communities without the scrolling nightmare.</td></tr>
-  <tr><td><a href="https://github.com/BABAR-TAHSEEN55/Grimoire"><b>Grimoire</b></a> — 🤫</td></tr>
-  <tr><td><a href="https://github.com/BABAR-TAHSEEN55/Restaura"><b>Restaura</b></a> — 🤫</td></tr>
-  <tr><td><a href="https://github.com/BABAR-TAHSEEN55/Task-Tracker"><b>Task-Tracker</b></a> — CLI task manager with adding, listing, completing and removing tasks, with data persistence via Inquirer.js.</td></tr>
-  <tr><td><a href="https://github.com/BABAR-TAHSEEN55/Discord-Bot"><b>Discord-Bot</b></a> — 🤫</td></tr>
-  <tr><td><a href="https://github.com/BABAR-TAHSEEN55/Concurrent-TransPoder"><b>Concurrent-TransPoder</b></a> 🔒 — 🤫</td></tr>
-  <tr><td><a href="https://github.com/BABAR-TAHSEEN55/Fulcrum"><b>Fulcrum</b></a> 🔒 — 🤫</td></tr>
-  <tr><td><a href="https://github.com/BABAR-TAHSEEN55/Sage"><b>Sage</b></a> 🔒 — 🤫</td></tr>
-  <tr><td><a href="https://github.com/BABAR-TAHSEEN55/Abyss"><b>Abyss</b></a> — 🤫</td></tr>
-  <tr><td><a href="https://github.com/BABAR-TAHSEEN55/dotfiles."><b>dotfiles.</b></a> — My centralized dotfiles that can be replicated on any machine ^_^</td></tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
 <h2>My Stats</h2>
 
 <img src="https://streak-stats.demolab.com?user=babar-tahseen55&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&stroke=ffffff" height="220" alt="Streak Graph" />
@@ -155,6 +126,14 @@
   <img alt="GitHub Snake" src="https://raw.githubusercontent.com/babar-tahseen55/babar-tahseen55/output/github-snake.svg" />
 </picture>
 </div>
+
+---
+
+<div align="center">
+
+<h3>Random Dev Quote</h3>
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 
