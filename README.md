@@ -4,18 +4,17 @@
 <!--   <br> -->
 <!--   ス&nbsp;ホ&nbsp;・&nbsp;キ&nbsp;ム -->
 <!-- </h1> -->
-
 <div align="center">
 
-<img src="githubanner.jpg" width="100%" />
+<img src="d90f262ac919084bea0afe4d2fcf1086-ezgif.com-crop.gif" width="100%" />
 
 <br/><br/>
 
-[![AboutMe](https://img.shields.io/badge/🌐_ABOUT_ME-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://about-me-gilt-two.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/babartahseen/)
-[![Devpost](https://img.shields.io/badge/DEVPOST-000000?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/babar-tahseen55)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://suhospace.dev)
-![Discord](https://img.shields.io/badge/DISCORD-000000?style=for-the-badge&logo=discord&logoColor=white)
+[![AboutMe](https://img.shields.io/badge/🌐_About_Me-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://about-me-gilt-two.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/babartahseen/)
+[![Devpost](https://img.shields.io/badge/Devpost-000000?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/babar-tahseen55)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://suhospace.dev)
+[![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white)](#)
 
 </div>
 
@@ -27,88 +26,67 @@
 
 ---
 
-<h2 align="center"><em>About me</em></h2>
-
-<!-- <img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="250" align="right" style="margin-left: 20px;" /> -->
+<h2 align="center"><em>About Me</em></h2>
 
 <p>
-  hello there! <em><b>i'm mohammed babar tahseen</b></em>, a full stack developer & ai enthusiast. i enjoy learning new technologies and building scalable, modern web applications and intelligent systems. currently diving deep into agentic ai, devops, and full stack development.
+  Hello there! <em><b>I'm Mohammed Babar Tahseen</b></em>, a full-stack developer & AI enthusiast. I enjoy learning new technologies and building scalable, modern web applications and intelligent systems. Currently diving deep into agentic AI, DevOps, and full-stack development.
 </p>
 
 <p align="center">
-  <em><b> studying at muffakham jah college of engineering & technology</b></em><br/>
-  <em><b> part-time terminal hermit</b></em><br/>
-  <em><b> 1× hackathon winner</b></em><br/>
-  <em><b> manhwa reader</b></em>
+   <em><b>Studying at Muffakham Jah College of Engineering & Technology</b></em><br/>
+   <em><b>Part-time Terminal Hermit</b></em><br/>
+   <em><b>1× Hackathon Winner</b></em><br/>
+   <em><b>Manhwa Reader</b></em>
 </p>
 
 ---
 
 <div align="center">
 
-<h2>🪓 technologies</h2>
+<h2>🪓 Technologies</h2>
 
-<h3>core technologies</h3>
+<h3>Languages</h3>
 
 <p align="center">
-  <!-- row 1 (5) -->
-  <img src="https://img.shields.io/badge/html5-000000?style=for-the-badge&logo=html5&logocolor=white"/>
-  <img src="https://img.shields.io/badge/css3-000000?style=for-the-badge&logo=css3&logocolor=white"/>
-  <img src="https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logocolor=white"/>
-  <img src="https://img.shields.io/badge/typescript-000000?style=for-the-badge&logo=typescript&logocolor=white"/>
-  <img src="https://img.shields.io/badge/react-000000?style=for-the-badge&logo=react&logocolor=white"/>
-
-  <!-- row 2 (5) -->
-  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logocolor=white"/>
-    <br/>
-  <img src="https://img.shields.io/badge/node.js-000000?style=for-the-badge&logo=node.js&logocolor=white"/>
-  <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logocolor=white"/>
-  <img src="https://img.shields.io/badge/fastapi-000000?style=for-the-badge&logo=fastapi&logocolor=white"/>
-  <img src="https://img.shields.io/badge/mongodb-000000?style=for-the-badge&logo=mongodb&logocolor=white"/>
-  
-  <br/>
-
-  <!-- row 3 (3) -->
-  <img src="https://img.shields.io/badge/postgresql-000000?style=for-the-badge&logo=postgresql&logocolor=white"/>
-  <img src="https://img.shields.io/badge/docker-000000?style=for-the-badge&logo=docker&logocolor=white"/>
-  <img src="https://img.shields.io/badge/linux-000000?style=for-the-badge&logo=linux&logocolor=white"/>
-  
-  <br/>
-
-  <!-- row 4 (2) -->
-  <img src="https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logocolor=white"/>
-  <img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logocolor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-<h3>frameworks & libraries</h3>
+<h3>Frameworks & Libraries</h3>
 
 <p>
-  <img src="https://img.shields.io/badge/react-000000?style=for-the-badge&logo=react&logocolor=white" />
-  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logocolor=white" />
-  <img src="https://img.shields.io/badge/node.js-000000?style=for-the-badge&logo=nodedotjs&logocolor=white" />
-  <img src="https://img.shields.io/badge/fastapi-000000?style=for-the-badge&logo=fastapi&logocolor=white" />
-  <img src="https://img.shields.io/badge/tailwindcss-000000?style=for-the-badge&logo=tailwindcss&logocolor=white" />
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white" />
   <br/>
-  <img src="https://img.shields.io/badge/redux-000000?style=for-the-badge&logo=redux&logocolor=white" />
-  <img src="https://img.shields.io/badge/jest-000000?style=for-the-badge&logo=jest&logocolor=white" />
-  <img src="https://img.shields.io/badge/storybook-000000?style=for-the-badge&logo=storybook&logocolor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-000000?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jest-000000?style=for-the-badge&logo=jest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Storybook-000000?style=for-the-badge&logo=storybook&logoColor=white" />
 </p>
 
-<h3>databases & devops</h3>
+<h3>Databases & DevOps</h3>
 
 <p>
-  <img src="https://img.shields.io/badge/mongodb-000000?style=for-the-badge&logo=mongodb&logocolor=white" />
-  <img src="https://img.shields.io/badge/postgresql-000000?style=for-the-badge&logo=postgresql&logocolor=white" />
-  <img src="https://img.shields.io/badge/docker-000000?style=for-the-badge&logo=docker&logocolor=white" />
-  <img src="https://img.shields.io/badge/linux-000000?style=for-the-badge&logo=linux&logocolor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-<h3>ai & agentic systems</h3>
+<h3>AI & Agentic Systems</h3>
 
 <p>
-  <img src="https://img.shields.io/badge/openai-000000?style=for-the-badge&logo=openai&logocolor=white" />
-  <img src="https://img.shields.io/badge/langchain-000000?style=for-the-badge&logo=chainlink&logocolor=white" />
-  <img src="https://img.shields.io/badge/anthropic-000000?style=for-the-badge&logo=anthropic&logocolor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anthropic-000000?style=for-the-badge&logo=anthropic&logoColor=white" />
 </p>
 
 </div>
@@ -117,25 +95,25 @@
 
 <div align="center">
 
-<h2>my stats</h2>
+<h2>My Stats</h2>
 
-<img src="https://streak-stats.demolab.com?user=babar-tahseen55&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currstreaklabel=ffffff&sidelabels=ffffff&dates=ffffff&stroke=ffffff" height="220" alt="streak graph" />
+<img src="https://streak-stats.demolab.com?user=babar-tahseen55&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&stroke=ffffff" height="220" alt="Streak Graph" />
 
 <table>
 <tr>
 <td width="50%" align="center">
-  <h4>most used languages</h4>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BABAR-TAHSEEN55&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&langs_count=8" alt="top languages" />
+  <h4>Most Used Languages</h4>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BABAR-TAHSEEN55&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&langs_count=8" alt="Top Languages" />
 </td>
 <td width="50%" align="center">
-  <h4>github stats</h4>
-  <img src="https://github-readme-stats.vercel.app/api?username=BABAR-TAHSEEN55&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="github stats" />
+  <h4>GitHub Stats</h4>
+  <img src="https://github-readme-stats.vercel.app/api?username=BABAR-TAHSEEN55&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="GitHub Stats" />
 </td>
 </tr>
 </table>
 
-<h3>contribution graph</h3>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BABAR-TAHSEEN55&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&area=true&hide_border=true&custom_title=mohammed%20babar%20tahseen's%20contribution%20graph" alt="activity graph" width="100%" />
+<h3>Contribution Graph</h3>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BABAR-TAHSEEN55&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&area=true&hide_border=true&custom_title=Mohammed%20Babar%20Tahseen's%20Contribution%20Graph" alt="Activity Graph" width="100%" />
 
 </div>
 
@@ -143,7 +121,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/babar-tahseen55/babar-tahseen55/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/babar-tahseen55/babar-tahseen55/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/babar-tahseen55/babar-tahseen55/output/github-snake.svg" />
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/babar-tahseen55/babar-tahseen55/output/github-snake.svg" />
 </picture>
 </div>
 
@@ -151,23 +129,23 @@
 
 <div align="center">
 
-<h3>random dev quote</h3>
+<h3>Random Dev Quote</h3>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 
-<h3>visitor count</h3>
+<h3>Visitor Count</h3>
 
-![](https://komarev.com/ghpvc/?username=babar-tahseen55&color=000000&style=flat-square&label=profile+views)
+![](https://komarev.com/ghpvc/?username=babar-tahseen55&color=000000&style=flat-square&label=Profile+Views)
 
 ---
 
 <h3 align="center">
-  thank you for visiting my profile, anon.
-  <br>hope you come back soon!
+  Thank you for visiting my profile, anon.<br/>
+  Hope you come back soon! 👋
 </h3>
 
-<sub>from <a href="https://github.com/babar-tahseen55">babar-tahseen55</a> with ❤️</sub>
+<sub>Made with ❤️ by <a href="https://github.com/babar-tahseen55">SuhoKim</a></sub>
 
 </div>
