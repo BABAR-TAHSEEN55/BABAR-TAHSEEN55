@@ -139,21 +139,17 @@
 <tr>
 <td width="50%" align="center">
   <h4>most used languages</h4>
-  <img 
-    src="https://github-readme-stats-two-beta-28.vercel.app/api/top-langs/?username=Joaninnn&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&langs_count=8"
-
-                />
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BABAR-TAHSEEN55&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&langs_count=8" alt="top languages" />
 </td>
 <td width="50%" align="center">
   <h4>github stats</h4>
-  <img src="https://github-readme-stats.vercel.app/api?username=babar-tahseen55&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BABAR-TAHSEEN55&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="github stats" />
 </td>
 </tr>
 </table>
 
 <h3>contribution graph</h3>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=babar-tahseen55&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&area=true&hide_border=true&custom_title=mohammed%20babar%20tahseen's%20contribution%20graph" alt="activity graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BABAR-TAHSEEN55&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&area=true&hide_border=true&custom_title=mohammed%20babar%20tahseen's%20contribution%20graph" alt="activity graph" width="100%" />
 
 </div>
 
