@@ -6,7 +6,7 @@
 <!-- </h1> -->
 <div align="center">
 
-<img src="d90f262ac919084bea0afe4d2fcf1086-ezgif.com-crop.gif" width="100%" />
+<img src="github-banner.gif" width="100%" />
 
 <br/><br/>
 
