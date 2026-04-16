@@ -156,6 +156,6 @@
   Hope you come back soon! 👋
 </h3>
 
-<sub>Made with ❤️ by <a href="https://github.com/babar-tahseen55">SuhoKim</a></sub>
+<h4>Made with ❤️ by <a href="https://github.com/babar-tahseen55"><strong>Suho Kim</strong></a></h4>
 
 </div>
